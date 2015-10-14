@@ -1,0 +1,5 @@
+phonegap : 
+http://pincuran.com/index.php/78-pemograman-android/90-pengertian-dan-penjelasan-apa-itu-phonegap - 14 oktober 9.49
+https://en.wikipedia.org/wiki/PhoneGap - 14 oktober 9.53
+ionic : 
+https://en.wikipedia.org/wiki/Ionic_%28mobile_app_framework%29 - 14 oktober -10.59	
