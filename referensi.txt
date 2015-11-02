@@ -1,3 +1,8 @@
+telkom : 
+https://id.wikipedia.org/wiki/Telkom_Indonesia 
+http://www.telkom.co.id/tentang-telkom
+http://www.telkom.co.id/UHI/CDInteraktif2013/ID/0043_sdm.html
+
 phonegap : 
 http://pincuran.com/index.php/78-pemograman-android/90-pengertian-dan-penjelasan-apa-itu-phonegap - 14 oktober 9.49
 https://en.wikipedia.org/wiki/PhoneGap - 14 oktober 9.53
